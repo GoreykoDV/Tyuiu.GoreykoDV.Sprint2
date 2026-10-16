@@ -9,10 +9,10 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task3.V2.Test
         public void ValidCondition1()
         {
             DataService ds = new DataService();
-            double x = 4; 
+            double x = 4;
             double res = ds.Calculate(x);
             double wait = -44.654;
-            Assert.AreEqual(wait,res);
+            Assert.AreEqual(wait, res);
         }
         public void ValidCondition2()
         {
