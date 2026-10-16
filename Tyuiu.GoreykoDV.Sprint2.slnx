@@ -24,7 +24,11 @@
     <Project Path="Tyuiu.GoreykoDV.Sprint2.Task4.V20.Test/Tyuiu.GoreykoDV.Sprint2.Task4.V20.Test.csproj" />
     <Project Path="Tyuiu.GoreykoDV.Sprint2.Task4.V20/Tyuiu.GoreykoDV.Sprint2.Task4.V20.csproj" />
   </Folder>
-  <Folder Name="/Task5/" />
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.GoreykoDV.Sprint2.Task5.V9.Lib/Tyuiu.GoreykoDV.Sprint2.Task5.V9.Lib.csproj" />
+    <Project Path="Tyuiu.GoreykoDV.Sprint2.Task5.V9.Test/Tyuiu.GoreykoDV.Sprint2.Task5.V9.Test.csproj" />
+    <Project Path="Tyuiu.GoreykoDV.Sprint2.Task5.V9/Tyuiu.GoreykoDV.Sprint2.Task5.V9.csproj" />
+  </Folder>
   <Folder Name="/Task6/" />
   <Folder Name="/Task7/" />
 </Solution>
