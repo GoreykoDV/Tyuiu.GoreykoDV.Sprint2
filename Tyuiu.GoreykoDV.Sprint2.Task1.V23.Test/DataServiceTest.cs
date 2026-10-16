@@ -6,7 +6,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task1.V23.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetCompareOperations()
         {
             DataService ds = new DataService();
             int a =242;
