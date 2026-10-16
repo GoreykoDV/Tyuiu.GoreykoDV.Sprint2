@@ -14,7 +14,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task4.V20
             Console.WriteLine("* Спринт #2                                                                *");
             Console.WriteLine("* Тернарный оператор                                                       *");
             Console.WriteLine("* Задание #4                                                               *");
-            Console.WriteLine("* Вариант #2                                                               *");
+            Console.WriteLine("* Вариант #22                                                               *");
             Console.WriteLine("* Выполнил: Горейко Дарья Владимировна | РППб-26-1                         *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
