@@ -12,7 +12,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task6.V9
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #2                                                                *");
-            Console.WriteLine("* Оператор switch                                                          *");
+            Console.WriteLine("* Получение результата из switch                                           *");
             Console.WriteLine("* Задание #6                                                               *");
             Console.WriteLine("* Вариант #9                                                               *");
             Console.WriteLine("* Выполнил: Горейко Дарья Владимировна | РППб-26-1                         *");
