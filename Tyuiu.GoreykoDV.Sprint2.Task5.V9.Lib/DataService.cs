@@ -28,7 +28,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task5.V9.Lib
                 m++;
             }
 
-            return $"{n}.{m}";
+            return $"{n:D2}.{m:D2}";
         }
     }
 }

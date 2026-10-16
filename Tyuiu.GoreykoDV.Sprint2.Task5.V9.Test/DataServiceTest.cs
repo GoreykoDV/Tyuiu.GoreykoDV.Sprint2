@@ -10,7 +10,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task5.V9.Test
         {
             DataService ds = new DataService();
             string res = ds.FindDateOfNextDay(1, 31);
-            string wait = "1.2";
+            string wait = "01.02";
             Assert.AreEqual(wait, res);
         }
 
@@ -19,7 +19,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task5.V9.Test
         {
             DataService ds = new DataService();
             string res = ds.FindDateOfNextDay(4, 30);
-            string wait = "1.5";
+            string wait = "01.05";
             Assert.AreEqual(wait, res);
         }
 
@@ -28,7 +28,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task5.V9.Test
         {
             DataService ds = new DataService();
             string res = ds.FindDateOfNextDay(2, 28);
-            string wait = "1.3";
+            string wait = "01.03";
             Assert.AreEqual(wait, res);
         }
 
@@ -37,7 +37,7 @@ namespace Tyuiu.GoreykoDV.Sprint2.Task5.V9.Test
         {
             DataService ds = new DataService();
             string res = ds.FindDateOfNextDay(3, 15);
-            string wait = "16.3";
+            string wait = "16.03";
             Assert.AreEqual(wait, res);
         }
     }
